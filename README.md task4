@@ -1,0 +1,28 @@
+# Alfido-tech-task4
+Name:Gampala varshitha
+Company: Alfido tech
+ID:  BS/REG/110324
+Duration: 01 Sep 2025
+Mentor: Akash Dubey 
+Overview of the project
+Image Classification
+Train a CNN on the MNIST dataset to classify handwritten digits using TensorFlow.
+
+Objective
+.Teach a computer to recognize handwritten numbers (0 to 9) using a smart model called a CNN (Convolutional Neural Network).
+ .Use the MNIST dataset (a famous set of digit images) to train and test the model
+
+  Features
+  .Uses images of digits (28x28 pixels, black & white).
+  .Makes the computer learn patterns in the digits.
+  .Uses a special model (CNN) that is good at seeing images.
+   .The model gets better by learning from thousands of examples.
+    .After training, the model can guess digits in new images.
+
+     Technologies
+     | Tool                                  | What it does                              |
+| ------------------------------------- | ----------------------------------------- |
+| **Python**                            | Main programming language                 |
+| **TensorFlow / Keras**                | Library to build and train the model      |
+| **MNIST dataset**                     | Dataset with images of handwritten digits |
+| **Jupyter Notebook / Any Python IDE** | To write and run the code                 |
